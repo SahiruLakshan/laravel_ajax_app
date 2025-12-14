@@ -79,6 +79,7 @@
     <header>
         <h1>Welcome to Modern UI</h1>
         <p>Your clean, responsive, and modern webpage</p>
+        <p>Your clean, responsive, and modern webpage</p>
     </header>
 
     <nav>
