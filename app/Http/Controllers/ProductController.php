@@ -13,6 +13,11 @@ class ProductController extends Controller
         return view('products', compact('products'));
     }
 
+    public function view()
+    {
+        return view('view');
+    }
+
     public function store(Request $request)
     {
         $product = Product::create([
