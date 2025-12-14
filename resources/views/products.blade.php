@@ -16,7 +16,7 @@
 <button id="save">Save</button>
 
 <hr>
-
+<h1>Tables</h1>
 <table border="1" width="50%">
     <thead>
         <tr>
